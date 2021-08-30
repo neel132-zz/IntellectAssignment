@@ -138,8 +138,8 @@ src
       ```
 
 ## Answer 4 -
-### Issue 1 - When audio starts playing and user minimize the app, user have not control to pause the audio.
+### Issue 1 - When audio starts playing and user minimize the app, user have no control to pause the audio.
 ### Issue 2 - When internet is turned off before audio loads, and then when the internet is turned on after approx 15 seconds, the audio keeps on loading.
-### Issue 3 - When users system media volume is zero, app while playing audio doesnt consent to increase the volume for better experience.
-### Issue 4 - In Journal, where users input is mandatory to proceed; user can skip by just adding space
-### Issue 5 - On system notification, instead of intellect icon there is notification bell icon
+### Issue 3 - When users system media volume is zero, app while playing audio does not consent user to increase the volume for better experience.
+### Issue 4 - In Journal, where users input is mandatory to proceed; user can skip by just adding space.
+### Issue 5 - On system notification, instead of intellect icon there is default notification bell icon.

@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Slider /> renders a slider with custom props 1`] = `
+<RNCSlider
+  disabled={false}
+  enabled={true}
+  inverted={false}
+  maximumTrackTintColor="black"
+  maximumValue={10}
+  minimumTrackTintColor="red"
+  minimumValue={0}
+  onChange={[Function]}
+  onRNCSliderSlidingComplete={null}
+  onRNCSliderSlidingStart={null}
+  onRNCSliderValueChange={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  step={1}
+  style={
+    Array [
+      Object {
+        "height": 40,
+      },
+      Object {
+        "height": 40,
+        "width": 200,
+      },
+    ]
+  }
+  tapToSeek={false}
+  thumbImage={null}
+  value={0}
+/>
+`;
+
+exports[`<Slider /> renders disabled slider 1`] = `
+<RNCSlider
+  disabled={false}
+  enabled={true}
+  inverted={false}
+  maximumTrackTintColor="black"
+  maximumValue={10}
+  minimumTrackTintColor="red"
+  minimumValue={0}
+  onChange={null}
+  onRNCSliderSlidingComplete={null}
+  onRNCSliderSlidingStart={null}
+  onRNCSliderValueChange={null}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  step={1}
+  style={
+    Array [
+      Object {
+        "height": 40,
+      },
+      Object {
+        "height": 40,
+        "width": 200,
+      },
+    ]
+  }
+  tapToSeek={false}
+  thumbImage={null}
+  value={0}
+/>
+`;
+
+exports[`<Slider /> renders enabled slider 1`] = `
+<RNCSlider
+  disabled={false}
+  enabled={true}
+  inverted={false}
+  maximumTrackTintColor="black"
+  maximumValue={10}
+  minimumTrackTintColor="red"
+  minimumValue={0}
+  onChange={null}
+  onRNCSliderSlidingComplete={null}
+  onRNCSliderSlidingStart={null}
+  onRNCSliderValueChange={null}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  step={1}
+  style={
+    Array [
+      Object {
+        "height": 40,
+      },
+      Object {
+        "height": 40,
+        "width": 200,
+      },
+    ]
+  }
+  tapToSeek={false}
+  thumbImage={null}
+  value={0}
+/>
+`;

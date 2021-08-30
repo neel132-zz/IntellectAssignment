@@ -46,8 +46,9 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         alignItems: 'center',
-        height: 70,
+        height: 60,
         overflow: 'hidden',
+        marginVertical: 10,
     },
     itemContainer: {
         borderRadius: 20,
